@@ -1,0 +1,8 @@
+Bundle-Name: Athenex Configuration
+Bundle-SymbolicName: com.athenex.configuration
+Bundle-Version: 1.0.0
+Export-Package:\
+    com.athenex.configuration,\
+Web-ContextPath: /athenex-configuration
+-metatype: *
+
